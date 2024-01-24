@@ -1,5 +1,5 @@
 import About from "./componets/About";
-import Contacts from "./componets/Contacts";
+import Contact from "./componets/Contact";
 import Home from "./componets/Home";
 import Navbar from "./componets/Navbar";
 import Skills from "./componets/Skills";
@@ -13,7 +13,7 @@ export default function App() {
       <About />
       <Skills />
       <Work />
-      <Contacts />
+      <Contact />
     </div>
   );
 }
